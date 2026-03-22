@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+/dist
+
+# Environment
+.env
+
+# Debug/Scratch scripts
+test-*.ts
+debug-*.ts
+clean-db.ts
+list-all.ts
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+yarn-error.log
+npm-debug.log*
