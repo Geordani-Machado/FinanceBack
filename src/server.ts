@@ -1,3 +1,4 @@
+import "./polyfills";
 import express from "express";
 import dotenv from "dotenv";
 import nfceRoutes from "./routes/nfce.routes";
